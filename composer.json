@@ -1,0 +1,9 @@
+{
+    "name": "anodio/templating",
+    "description": "A simple templating engine",
+    "autoload": {
+        "psr-4": {
+            "Anodio\\Templating\\": "src/"
+        }
+    }
+}
