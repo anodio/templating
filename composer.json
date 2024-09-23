@@ -1,9 +1,12 @@
 {
     "name": "anodio/templating",
-    "description": "A simple templating engine",
+    "description": "A twig templating engine for Anod",
     "autoload": {
         "psr-4": {
             "Anodio\\Templating\\": "src/"
         }
+    },
+    "require": {
+        "twig/twig": "^3.0"
     }
 }
